@@ -19,4 +19,4 @@
 
 # 📬 정보
 * 📧 이메일: [coh9749@naver.com](mailto:coh9749@naver.com)  
-* 📝 블로그: [https://cyh0309.tistory.com/](https://cyh0309.tistory.com/)
+* 📝 블로그: [https://cyh0309.tistory.com](https://cyh0309.tistory.com/)
