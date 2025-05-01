@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👨‍💻 소개
+* 👋 안녕하세요! 백엔드 개발자 **최연환**입니다.  
+* 도전하고 성장하는 것을 즐기는 개발자입니다. 🚀
 
-<!--
-**nenney/nenney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# 🛠 기술 스택
+* **Java**, **Spring Boot**  
+* **JPA**, **Spring Security**  
+* **MySQL**, **AWS**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🎓 교육
+📌 국민내일배움카드 K-Digital Training 훈련 과정  
+실무형 스프링 백엔드 엔지니어 양성과정 **수료**
+
+---
+
+# 📬 정보
+* 📧 이메일: [coh9749@naver.com](mailto:coh9749@naver.com)  
+* 📝 블로그: [https://cyh0309.tistory.com/](https://cyh0309.tistory.com/)
